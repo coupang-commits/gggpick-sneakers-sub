@@ -1,22 +1,22 @@
 {
     "domain": "sneakers.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "한정판 스니커즈",
+        "러닝화",
+        "스포츠 특수화"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang sneakers items."
+        "한정판 스니커즈": {
+            "topic": "Limited edition sneakers, retro shoes, hype fashion.",
+            "role": "Sneakerhead expert."
         },
-        "수유/이유식": {
-            "topic": "sneakers bottle sterilizers, sneakers food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "러닝화": {
+            "topic": "Marathon running shoes, daily trainers, track shoes.",
+            "role": "Running shoe reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "스포츠 특수화": {
+            "topic": "Basketball shoes, skate shoes, soccer cleats.",
+            "role": "Sports footwear curator."
         }
     }
 }
