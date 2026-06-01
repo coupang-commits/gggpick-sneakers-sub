@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://sneakers.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick sneakers'
+title = 'GGG Pick 스니커즈'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick sneakers'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'sneakers 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '한정판 스니커즈, 러닝화, 스포츠 특수화 등 발이 편안하고 트렌디한 운동화/스니커즈 쿠팡 로켓배송 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick sneakers'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick sneakers"
+  sitename = "GGG Pick 스니커즈"
   siteurl = "https://sneakers.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
